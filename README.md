@@ -191,7 +191,7 @@ MATLAB does not need to be installed to run the standalone apps.
 
 For network-level tooling and measurement setup:
 
-### Read: Network Level Energy Measurement, Optimization and Prediction/Apps-Predictor-Optimizer/Instructions.docx
+### Go to: Network Level Energy Measurement, Optimization and Prediction/Apps-Predictor-Optimizer/Instructions.docx
 
 ### Demo videos:
 
