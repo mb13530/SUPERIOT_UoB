@@ -201,10 +201,10 @@ Network Level Energy Predictor Demo.mp4
 
 https://uob-my.sharepoint.com/:f:/g/personal/mb13530_bristol_ac_uk/IgBe3OrBNvEoQZRwfM5wk6MIATmK5e5hM3cqq7x1kI9mENY?e=DK9kvm
 
-### Notes on access to downloads
+# Notes on access to downloads
 
 Several downloads are hosted on University of Bristol SharePoint. Access may require appropriate permissions or an authenticated account.
 
-## Citation
+# Citation
 
 If you use these tools or datasets in academic work, please cite the relevant SUPERIOT papers (see the “Recommended reading” links above). If you’d like, paste your preferred citation format (BibTeX / IEEE / ACM) and I’ll format the references accordingly.
