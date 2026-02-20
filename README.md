@@ -130,7 +130,7 @@ To generate datasets for your own scenarios (with or without harvesting), use Ta
 
 A companion tool (also built with MATLAB App Designer) for energy profiling and dataset generation of the BeagleBone Black (BBB)-based SUPERIOT Access Point.
 
-### Download:
+### Download (Windows installer / standalone app):
 https://uob-my.sharepoint.com/:u:/g/personal/mb13530_bristol_ac_uk/IQDXH7K0pFbHRryJPAjk1ZbXAVCn8P0r2krf2dKgi3brW5A?e=h94od0
 
 ### What it models:
