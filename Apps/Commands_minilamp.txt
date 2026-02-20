@@ -1,0 +1,44 @@
+#############################ACCESS POINT Firmware######################
+#############vlc#############
+start vlc/ble cmd data end
+AA 01 02 EE  //Send frame to node
+AA 01 03 01 EE  //Set up the power mode
+AA 01 04 01 EE  //Set up the wakeup mode 0 sleep, 1 wakeup
+AA 01 05 00 EE  //Set up the communication mode 0 VLC/BLE, 1 vlc, 2 ble
+AA 01 06 02 EE  //Set up the protocol mode 0 compact levle, 1 bit level, 2 byte level
+AA 01 07 32 EE  //Set up the VLC interval, 32 is 50 millionseconds interval to send Bytes within the frame? Default is 500/10 (TIMER0_INTERVAL_MS / 10). the range is from 1 to 5000.
+AA 01 08 32 EE  //Set up the PWM. 32 is 50 perecentage. The range is from 1 to 100
+AA 01 09 0A EE  //Set up the VLC unit which is used to count the number of bytes sending during this unit. 0A is 10 seconds unit.
+
+#vlc send interval count address
+# 01  10     05     06     01
+AA 01 10 05 06 01 EE
+
+
+
+#############ble#############
+start vlc/ble cmd data end AA 02 02 D6 D6 70 4D 29 6B EE
+AA 02 02 FC E4 82 DC DD 6D EE  //Send frame to node
+AA 02 03 01 EE  //Set up the power mode
+AA 02 04 01 EE  //Set up the wakeup mode 0 sleep, 1 wakeup
+AA 02 05 00 EE  //Set up the communication mode 0 VLC/BLE, 1 vlc, 2 ble
+AA 02 0A 02 EE  //Set up the protocol mode 0 compact levle, 1 bit level, 2 byte level
+AA 02 0B 24 EE  //Set up the BLE interval, 24 is 36*1.25 millionseconds interval to send Bytes within the frame? The range is from 4 to 65 535. in unit of 0.625 ms
+//Bluefruit.Scanner.setInterval(160, 80); // in unit of 0.625 ms . e.g., Every 100 ms, wake up and listen for 50 ms for any BLE advertisements, then sleep until the next 100 ms boundary
+AA 02 0C 01 EE  //cannot set it up for advertising mode. Set up the PHY_RATE.  the range is from 1 to 3. PHY_1M, PHY_2M, PHY_3M.
+AA 02 0D 1E EE  //Set up the MTU. 1E is 30 Bytes per time. The range is from 23 to 247.
+AA 02 0E 0A EE  //Set up the BLE unit which is used to count the number of bytes sending during this unit. 0A is 10 seconds unit. 
+
+
+#ble send interval count address FC E4 82 DC DD 6D
+# 02  20     05     06   D6 D6 70 4D 29 6B
+AA 02 20 05 06 D6 D6 70 4D 29 6B EE
+AA 02 20 05 06 FC E4 82 DC DD 6D EE
+
+
+#VSE,02,06 (or,07,or,08)
+
+
+AA 02 20 01 04 D0 99 55 85 50 B1 EE
+AA 02 20 01 04 EE E0 9F D4 34 32 EE
+AA 02 20 01 04 DF B6 6E 4A DB D5 EE

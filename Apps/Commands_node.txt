@@ -1,0 +1,51 @@
+########Node Firmware #############
+#############vlc#############
+start vlc/ble cmd data end
+AA 01 02 EE  //Send frame to gateway
+AA 01 03 01 EE  //Set up the power mode
+AA 01 04 01 EE  //Set up the wakeup mode 0 sleep, 1 wakeup
+AA 01 05 00 EE  //Set up the communication mode 0 VLC/BLE, 1 vlc, 2 ble
+AA 01 06 02 EE  //Set up the protocol mode 0 compact levle, 1 bit level, 2 byte level
+AA 01 07 32 EE  //Set up the VLC interval, 32 is 50 millionseconds interval to send Bytes within the frame? Default is 500/10 (TIMER0_INTERVAL_MS / 10). the range is from 1 to 5000.
+AA 01 08 32 EE  //Set up the PWM. 32 is 50 perecentage
+AA 01 09 0A EE  //Set up the VLC unit which is used to count the number of bytes sending during this unit. 0A is 10 seconds unit.
+AA 01 0A 00 EE  //set vlc off 0 or on 1
+AA 01 0B 00 EE  //set eink off 0, display 1,
+//AA 01 0C 00 EE  //set sensing off 0, on 1. used by minilamp
+
+#vlc send interval count address
+# 01  10     05     06     01
+AA 01 10 0C 01 01 EE
+AA 01 10 0C 02 01 EE
+
+AA 01 02 EE, AA 01 04 01 EE, AA 02 05 00 EE
+
+#############ble#############
+start vlc/ble cmd data end
+AA 02 02 EE  //Send frame to gateway
+AA 02 03 01 EE  //Set up the power mode
+AA 02 04 01 EE  //Set up the wakeup mode 0 sleep, 1 wakeup
+AA 02 05 00 EE  //Set up the communication mode 0 VLC/BLE, 1 vlc, 2 ble
+AA 02 0A 02 EE  //Set up the protocol mode 0 compact levle, 1 bit level, 2 byte level
+AA 02 0B 24 EE  //Set up the BLE interval, 24 is 36*1.25 millionseconds interval to send Bytes within the frame? The range is from 6 to 3200. max( (uint16_t)6, min( (uint16_t)3200, (uint16_t)(collected_data.ble_interval_seconds / 1.25f + 0.5f) ) ); // units: 1.25ms
+AA 02 0C 01 EE  //Set up the PHY_RATE.  the range is from 1 to 3. PHY_1M, PHY_2M, PHY_3M.
+AA 02 0D 1E EE  //Set up the MTU. 1E is 30 Bytes per time. The range is from 23 to 247.
+AA 02 0E 0A EE  //Set up the BLE unit which is used to count the number of bytes sending during this unit. 0A is 10 seconds unit. 
+AA 02 0F 00 EE  //set BLE off 0 or on 1
+AA 02 11 0A EE  //set BLE Fast time 0A second
+#ble send interval count address
+# 02  20     05     06   D6 D6 70 4D 29 6B
+AA 02 20 01 01 D6 D6 70 4D 29 6B EE
+AA 02 20 01 04 D6 D6 70 4D 29 6B EE
+
+AA 02 20 05 06 FC E4 82 DC DD 6D EE
+
+
+#############vlc#############
+start vlc/ble cmd data end
+AA 03 06 01 EE  //Send frame to gateway, request sensor data only
+AA 03 07 01 EE  //Send frame to gateway, request location data only
+AA 03 08 01 EE  //Send frame to gateway, request both sensor and location data
+
+
+
