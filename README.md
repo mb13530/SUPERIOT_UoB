@@ -60,7 +60,7 @@ Visualise:
 DEMO_Node_Energy_Prediction_App.mp4
 https://uob-my.sharepoint.com/:f:/g/personal/mb13530_bristol_ac_uk/IgBe3OrBNvEoQZRwfM5wk6MIATmK5e5hM3cqq7x1kI9mENY?e=dzGDcp
 
-## 2) Sample Datasets (generated from the Node-level App)
+## 2) RIoT Node Energy Datasets (generated from the Node-level App)
 
 This repo also provides a link to download time-series datasets created using the node-level app, spanning a wide range of states, modes, and configurations (randomised).
 
