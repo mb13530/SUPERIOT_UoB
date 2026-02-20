@@ -1,0 +1,14 @@
+Metadata-Version: 2.2
+Name: ppk2-api
+Version: 0.9.2
+Summary: API for Nordic Semiconductor's Power Profiler Kit II (PPK 2).
+Home-page: https://github.com/IRNAS/ppk2-api-python
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v2 (GPLv2)
+Classifier: Operating System :: OS Independent
+License-File: LICENSE.md
+Requires-Dist: pyserial
+Dynamic: classifier
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: summary
