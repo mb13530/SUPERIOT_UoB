@@ -25,7 +25,6 @@ A user-friendly energy consumption + prediction application for the SUPERIOT Sil
 
 ![Node App Snapshot](https://github.com/mb13530/SUPERIOT_UoB/blob/a46d028fa28bb298b2d1ca88c770553a27f6be38/Useful%20resources/node_app_snapshot.png)
 
-
 ### Download (Windows installer / standalone app):
 https://uob-my.sharepoint.com/:u:/g/personal/mb13530_bristol_ac_uk/IQBgAbYJYKh7TY4Qc2z0W44TAesNomKxTbdM7Kh05YFCr40?e=WklI4A
 
@@ -138,6 +137,8 @@ To generate datasets for your own scenarios (with or without harvesting), use Ta
 ## 3) Access Point Energy Prediction App (BBB-based Hybrid OWC/RF AP)
 
 A companion tool (also built with MATLAB App Designer) for energy profiling and dataset generation of the BeagleBone Black (BBB)-based SUPERIOT Access Point.
+
+![BBB-based AP App Snapshot](https://github.com/mb13530/SUPERIOT_UoB/blob/21496b6c2afacca06433f7c508ead13a963de411/Useful%20resources/bbb_app_snapshot.png)
 
 ### Download (Windows installer / standalone app):
 https://uob-my.sharepoint.com/:u:/g/personal/mb13530_bristol_ac_uk/IQDXH7K0pFbHRryJPAjk1ZbXAVCn8P0r2krf2dKgi3brW5A?e=h94od0
