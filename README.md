@@ -5,7 +5,7 @@ This repository collects software, datasets, and supporting material produced in
 
 # Project website: https://superiot.eu/
 
-# Recommended reading (preprints):
+# Recommended reading:
 https://arxiv.org/abs/2510.09842 
 
 https://arxiv.org/abs/2501.10093
