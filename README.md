@@ -7,6 +7,11 @@ This repository collects software, datasets, and supporting material produced in
 ![BBB-based hybrid OWC/RF Access Point](https://github.com/mb13530/SUPERIOT_UoB/blob/ee2af486bd3ca4a77e8f07dce9c629217d099ca1/Useful%20resources/bbb_ap.png)
 ![Mini-Lamp hybrid OWC/RF Gateway](https://github.com/mb13530/SUPERIOT_UoB/blob/ee2af486bd3ca4a77e8f07dce9c629217d099ca1/Useful%20resources/mini_lamp.png)
 
+<p float="left">
+  <img src="https://github.com/mb13530/SUPERIOT_UoB/blob/ee2af486bd3ca4a77e8f07dce9c629217d099ca1/Useful%20resources/NODE.png" width="100" />
+  <img src="https://github.com/mb13530/SUPERIOT_UoB/blob/ee2af486bd3ca4a77e8f07dce9c629217d099ca1/Useful%20resources/bbb_ap.png" width="100" /> 
+  <img src="https://github.com/mb13530/SUPERIOT_UoB/blob/ee2af486bd3ca4a77e8f07dce9c629217d099ca1/Useful%20resources/mini_lamp.png" width="100" />
+</p>
 
 # Project website: https://superiot.eu/
 
