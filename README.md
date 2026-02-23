@@ -74,7 +74,7 @@ This repo also provides a link to download time-series datasets created using th
 
 Dataset download: https://uob-my.sharepoint.com/:f:/g/personal/mb13530_bristol_ac_uk/IgAM_ExlEvG5QJjhXY-ItFj-AT4SXYDtPxeA_GsLgJhXKnw?e=6mBZrW
 
-![Sample node-level energy dataset](https://github.com/mb13530/SUPERIOT_UoB/blob/219c1a31ed50e88bda715454f23e3460bfb739c1/Useful%20resources/sample_dataset.png)
+![Sample node-level energy dataset](https://github.com/mb13530/SUPERIOT_UoB/blob/219c1a31ed50e88bda715454f23e3460bfb739c1/Useful%20resources/sample_dataset.svg)
 
 ### Dataset contents:
 
