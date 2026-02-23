@@ -17,7 +17,7 @@ https://arxiv.org/abs/2511.09303
 
 A user-friendly energy consumption + prediction application for the SUPERIOT Silicon-based Reconfigurable IoT node, built with MATLAB App Designer.
 
-![Node App Snapshot]([Useful resources](https://github.com/mb13530/SUPERIOT_UoB/blob/main/Useful%20resources/)/node_app_snapshot.png)
+![Node App Snapshot]([Useful resources](https://github.com/mb13530/SUPERIOT_UoB/blob/main/Useful%20resources/node_app_snapshot.png)
 
 
 ### Download (Windows installer / standalone app):
