@@ -4,9 +4,9 @@ Resources for Node and Network-level Energy Measurement, Analysis, Modeling and 
 This repository collects software, datasets, and supporting material produced in SUPERIOT (Hybrid OWC/RF Reconfigurable IoT System), with a focus on energy measurement, modelling, prediction, and optimisation at node, access point, and network level.
 
 <p float="left">
-  <img src="https://github.com/mb13530/SUPERIOT_UoB/blob/ee2af486bd3ca4a77e8f07dce9c629217d099ca1/Useful%20resources/NODE.png" width="300" p align="middle"  />
-  <img src="https://github.com/mb13530/SUPERIOT_UoB/blob/ee2af486bd3ca4a77e8f07dce9c629217d099ca1/Useful%20resources/bbb_ap.png" width="300" p align="middle" /> 
-  <img src="https://github.com/mb13530/SUPERIOT_UoB/blob/ee2af486bd3ca4a77e8f07dce9c629217d099ca1/Useful%20resources/mini_lamp.png" width="300" p align="middle" />
+  <img src="https://github.com/mb13530/SUPERIOT_UoB/blob/ee2af486bd3ca4a77e8f07dce9c629217d099ca1/Useful%20resources/NODE.png" height="150" width="300" p align="middle"  />
+  <img src="https://github.com/mb13530/SUPERIOT_UoB/blob/ee2af486bd3ca4a77e8f07dce9c629217d099ca1/Useful%20resources/bbb_ap.png" height="150" width="300" p align="middle" /> 
+  <img src="https://github.com/mb13530/SUPERIOT_UoB/blob/ee2af486bd3ca4a77e8f07dce9c629217d099ca1/Useful%20resources/mini_lamp.png" height="150" width="300" p align="middle" />
 </p>
 
 # Project website: https://superiot.eu/
