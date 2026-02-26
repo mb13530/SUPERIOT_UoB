@@ -13,8 +13,8 @@ This repository collects software, datasets, and supporting material produced in
 
 # Recommended reading:
 - [Paper 1](https://ieeexplore.ieee.org/document/11408832)
-- https://arxiv.org/abs/2510.09842 
-- https://arxiv.org/abs/2501.10093
+- [Paper 2](https://arxiv.org/abs/2510.09842) 
+- [Paper 3](https://arxiv.org/abs/2501.10093)
 
 # What’s included
 ## 1) Node-level Energy Prediction App (RIoT node)
