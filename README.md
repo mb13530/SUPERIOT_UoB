@@ -203,20 +203,15 @@ MATLAB does not need to be installed to run the standalone apps.
 </p>
 
 
-
-
-For network-level tooling and measurement setup:
-
-### See instructions at: 
+### For network-level energy measurement and data collection, see instructions at: 
 [Network Level Energy Measurement, Optimization and Prediction/Apps-Predictor-Optimizer/Instructions.docx](https://github.com/mb13530/SUPERIOT_UoB/blob/main/Network%20Level%20Energy%20Measurement%2C%20Optimization%20and%20Prediction/Apps-Predictor-Optimizer/Instructions.docx)
 
 ### Demo videos:
 
-Network Level Energy Measurement Demo.mp4
+[Network Level Energy Measurement Demo.mp4](https://uob-my.sharepoint.com/:v:/g/personal/mb13530_bristol_ac_uk/IQA6G-4efMGjTKeH7d16BOaEAUza1j1AoHqOblHIhkt3_QM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=SUR74P)
 
-Network Level Energy Predictor Demo.mp4
+[Network Level Energy Predictor Demo.mp4](https://uob-my.sharepoint.com/:v:/g/personal/mb13530_bristol_ac_uk/IQA554EFxZpSS6aY9h6Uxr9BAXPVhyvsLju5qBsh2-dFEWM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=q8LzjB)
 
-https://uob-my.sharepoint.com/:f:/g/personal/mb13530_bristol_ac_uk/IgBe3OrBNvEoQZRwfM5wk6MIATmK5e5hM3cqq7x1kI9mENY?e=DK9kvm
 
 # Notes on access to downloads
 
