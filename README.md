@@ -211,6 +211,19 @@ MATLAB does not need to be installed to run the standalone apps.
 
 ## 4) Network-level Energy Measurement, Prediction, and Optimisation
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/mb13530/SUPERIOT_UoB/blob/9fa2eac6d90ebe277541855e4ea13929780c6b7d/Useful%20resources/Network-level%20factors%20and%20node-level%20factors%20.svg" width="100%"><br>
+      <em>Figure 1: System architecture.</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/mb13530/SUPERIOT_UoB/blob/9fa2eac6d90ebe277541855e4ea13929780c6b7d/Useful%20resources/Automated%20Energy%20Consumption%20Collection%20and%20Analysis%20System.svg" width="100%"><br>
+      <em>Figure 2: Energy measurement setup.</em>
+    </td>
+  </tr>
+</table>
+
 <p float="left">
   <img src="https://github.com/mb13530/SUPERIOT_UoB/blob/9fa2eac6d90ebe277541855e4ea13929780c6b7d/Useful%20resources/Network-level%20factors%20and%20node-level%20factors%20.svg" width="300" p align="middle"  />
   <img src="https://github.com/mb13530/SUPERIOT_UoB/blob/9fa2eac6d90ebe277541855e4ea13929780c6b7d/Useful%20resources/Automated%20Energy%20Consumption%20Collection%20and%20Analysis%20System.svg" width="300" p align="middle" /> 
