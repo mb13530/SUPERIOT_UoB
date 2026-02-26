@@ -58,8 +58,7 @@ Visualise:
    - Add controlled variations in currents/durations (to mimic real-world profiles)
 
 ### Demo video:
-DEMO_Node_Energy_Prediction_App.mp4
-https://uob-my.sharepoint.com/:f:/g/personal/mb13530_bristol_ac_uk/IgBe3OrBNvEoQZRwfM5wk6MIATmK5e5hM3cqq7x1kI9mENY?e=dzGDcp
+[DEMO_Node_Energy_Prediction_App.mp4](https://uob-my.sharepoint.com/:f:/g/personal/mb13530_bristol_ac_uk/IgBe3OrBNvEoQZRwfM5wk6MIATmK5e5hM3cqq7x1kI9mENY?e=dzGDcp)
 
 ## 2) RIoT Node Energy Datasets (generated from the Node-level App)
 
