@@ -11,18 +11,20 @@ This repository collects software, datasets, and supporting material produced in
 
 <p align="center">
   <img src="https://github.com/mb13530/SUPERIOT_UoB/blob/ee2af486bd3ca4a77e8f07dce9c629217d099ca1/Useful%20resources/NODE.png" width="300"><br>
-  <em>Figure 1: Architecture of the Hybrid OWC–RF system.</em>
-</p>
-
-<p align="center">
-  <img src="https://github.com/mb13530/SUPERIOT_UoB/blob/ee2af486bd3ca4a77e8f07dce9c629217d099ca1/Useful%20resources/bbb_ap.png" width="300"><br>
-  <em>Figure 2: Energy consumption measurement setup.</em>
+  <em>Figure 1: Custom-engineered, multifunctional Silicon-based reconfigurable IoT (RIoT) node.</em>
 </p>
 
 <p align="center">
   <img src="https://github.com/mb13530/SUPERIOT_UoB/blob/ee2af486bd3ca4a77e8f07dce9c629217d099ca1/Useful%20resources/mini_lamp.png" width="300"><br>
-  <em>Figure 3: AI-based energy prediction model performance.</em>
+  <em>Figure 3: Mini-lamp gateway (hybrid Visible Light Communication and Radio Frequency).</em>
 </p>
+
+<p align="center">
+  <img src="https://github.com/mb13530/SUPERIOT_UoB/blob/ee2af486bd3ca4a77e8f07dce9c629217d099ca1/Useful%20resources/bbb_ap.png" width="300"><br>
+  <em>Figure 2: BeagleBone Black (BBB) access point (AP) (BBB platform +  mini-lamp gateway mounted on a Cape (hybrid Visible Light Communication and Radio Frequency).</em>
+</p>
+
+
 
 
 # Project website: https://superiot.eu/
