@@ -215,23 +215,39 @@ MATLAB does not need to be installed to run the standalone apps.
   <tr>
     <td align="center">
       <img src="https://github.com/mb13530/SUPERIOT_UoB/blob/9fa2eac6d90ebe277541855e4ea13929780c6b7d/Useful%20resources/Network-level%20factors%20and%20node-level%20factors%20.svg" width="100%"><br>
-      <em>Figure 1: System architecture.</em>
+      <em>Figure 1: Node-level and network-level factors affecting energy consumption.</em>
     </td>
     <td align="center">
       <img src="https://github.com/mb13530/SUPERIOT_UoB/blob/9fa2eac6d90ebe277541855e4ea13929780c6b7d/Useful%20resources/Automated%20Energy%20Consumption%20Collection%20and%20Analysis%20System.svg" width="100%"><br>
-      <em>Figure 2: Energy measurement setup.</em>
+      <em>Figure 2: General architecture of the automated energy consumption collection and analysis system.</em>
     </td>
+    <td align="center">
+      <img src="https://github.com/mb13530/SUPERIOT_UoB/blob/9fa2eac6d90ebe277541855e4ea13929780c6b7d/Useful%20resources/Guest%20Application.svg" width="100%"><br>
+      <em>Figure 3: Illustration of Guest Application.</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/mb13530/SUPERIOT_UoB/blob/9004511b500d5297ada6f22966cf6c0f0bcdd0b7/Useful%20resources/sample%20network%20energy%20data%20visualization.svg" width="100%"><br>
+      <em>Figure 4: Snapshot of the network-level energy data visualization interface.</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/mb13530/SUPERIOT_UoB/blob/9004511b500d5297ada6f22966cf6c0f0bcdd0b7/Useful%20resources/energy%20consumption%20predictor.svg" width="100%"><br>
+      <em>Figure 5: Network-level energy consumption predictor.</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/mb13530/SUPERIOT_UoB/blob/9004511b500d5297ada6f22966cf6c0f0bcdd0b7/Useful%20resources/energy%20consumption%20optimizer.svg" width="100%"><br>
+      <em>Figure 6: Network-level energy consumption optimizer</em>
+    </td>    
   </tr>
 </table>
 
-<p float="left">
+<!-- <p float="left">
   <img src="https://github.com/mb13530/SUPERIOT_UoB/blob/9fa2eac6d90ebe277541855e4ea13929780c6b7d/Useful%20resources/Network-level%20factors%20and%20node-level%20factors%20.svg" width="300" p align="middle"  />
   <img src="https://github.com/mb13530/SUPERIOT_UoB/blob/9fa2eac6d90ebe277541855e4ea13929780c6b7d/Useful%20resources/Automated%20Energy%20Consumption%20Collection%20and%20Analysis%20System.svg" width="300" p align="middle" /> 
   <img src="https://github.com/mb13530/SUPERIOT_UoB/blob/9fa2eac6d90ebe277541855e4ea13929780c6b7d/Useful%20resources/Guest%20Application.svg" width="300" p align="middle" />
   <img src="https://github.com/mb13530/SUPERIOT_UoB/blob/9004511b500d5297ada6f22966cf6c0f0bcdd0b7/Useful%20resources/sample%20network%20energy%20data%20visualization.svg" width="300" p align="middle" />
   <img src="https://github.com/mb13530/SUPERIOT_UoB/blob/9004511b500d5297ada6f22966cf6c0f0bcdd0b7/Useful%20resources/energy%20consumption%20predictor.svg" width="300" p align="middle" />
   <img src="https://github.com/mb13530/SUPERIOT_UoB/blob/9004511b500d5297ada6f22966cf6c0f0bcdd0b7/Useful%20resources/energy%20consumption%20optimizer.svg" width="300" p align="middle" />
-</p>
+</p> -->
 
 
 ### For network-level energy measurement and data collection, see instructions at: 
