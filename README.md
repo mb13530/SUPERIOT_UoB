@@ -12,7 +12,7 @@ This repository collects software, datasets, and supporting material produced in
 # Project website: https://superiot.eu/
 
 # Recommended reading:
-- https://ieeexplore.ieee.org/document/11408832
+- [Paper 1](https://ieeexplore.ieee.org/document/11408832)
 - https://arxiv.org/abs/2510.09842 
 - https://arxiv.org/abs/2501.10093
 
