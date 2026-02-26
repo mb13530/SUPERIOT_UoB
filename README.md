@@ -175,9 +175,8 @@ A companion tool (also built with MATLAB App Designer) for energy profiling and 
 ### Supporting snapshot: Useful resources/bbb_app_snapshot.pdf
 
 ### Demo video:
-DEMO_BBB_AP_Energy_Prediciton_App.mp4
 
-https://uob-my.sharepoint.com/:f:/g/personal/mb13530_bristol_ac_uk/IgBe3OrBNvEoQZRwfM5wk6MIATmK5e5hM3cqq7x1kI9mENY?e=dzGDcp
+[DEMO_BBB_AP_Energy_Prediciton_App.mp4](https://uob-my.sharepoint.com/:v:/g/personal/mb13530_bristol_ac_uk/IQDRgw7PdQERQITmkvZzeiO1AS95QhGQL6a2LsFG92Zhg9g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Jg6zRR)
 
 ### Installation (Windows)
 
