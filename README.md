@@ -24,7 +24,7 @@ A user-friendly energy consumption + prediction application for the SUPERIOT Sil
 ![Node App Snapshot](https://github.com/mb13530/SUPERIOT_UoB/blob/a46d028fa28bb298b2d1ca88c770553a27f6be38/Useful%20resources/node_app_snapshot.png)
 
 ### Download (Windows installer / standalone app):
-[Download](https://uob-my.sharepoint.com/:u:/g/personal/mb13530_bristol_ac_uk/IQBgAbYJYKh7TY4Qc2z0W44TAesNomKxTbdM7Kh05YFCr40?e=WklI4A)
+[Download Link](https://uob-my.sharepoint.com/:u:/g/personal/mb13530_bristol_ac_uk/IQBgAbYJYKh7TY4Qc2z0W44TAesNomKxTbdM7Kh05YFCr40?e=WklI4A)
 
 ### App overview (4 tabs):
 
@@ -43,9 +43,7 @@ Tab 4 — Demo (includes energy harvesting dynamics)
 - Specify different input parameters such as BLE TX power level, advertising interval, connection interval, operating duration, idle (standby) periods, activate and deactivate different functionalities such as Sensing, E-ink display (optimized or unoptimized),  NBVLC, BLE, deep sleep, etc.
 
 Visualise:
-
 - Total energy consumption
-
 - State-wise energy consumption over a periodic duty cycle
 
 ### Additional features (Tab 4 — Demo):
