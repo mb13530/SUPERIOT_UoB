@@ -28,13 +28,10 @@ A user-friendly energy consumption + prediction application for the SUPERIOT Sil
 
 ### App overview (4 tabs):
 
-Tab 1 — Normal (unoptimised) node operation
-
-Tab 2 — Low-power (software-optimised) node operation
-
-Tab 3 — Very low-power (hardware-optimised) node operation
-
-Tab 4 — Demo (includes energy harvesting dynamics)
+-Tab 1 — Normal (unoptimised) node operation
+-Tab 2 — Low-power (software-optimised) node operation
+-Tab 3 — Very low-power (hardware-optimised) node operation
+-Tab 4 — Demo (includes energy harvesting dynamics)
 
 ### See: Useful resources/node_app_snapshot.pdf
 
