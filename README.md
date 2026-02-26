@@ -135,7 +135,8 @@ A companion tool (also built with MATLAB App Designer) for energy profiling and 
 ![BBB-based AP App Snapshot](https://github.com/mb13530/SUPERIOT_UoB/blob/21496b6c2afacca06433f7c508ead13a963de411/Useful%20resources/bbb_app_snapshot.png)
 
 ### Download (Windows installer / standalone app):
-https://uob-my.sharepoint.com/:u:/g/personal/mb13530_bristol_ac_uk/IQDXH7K0pFbHRryJPAjk1ZbXAVCn8P0r2krf2dKgi3brW5A?e=h94od0
+
+[Download Link](https://uob-my.sharepoint.com/:u:/g/personal/mb13530_bristol_ac_uk/IQDXH7K0pFbHRryJPAjk1ZbXAVCn8P0r2krf2dKgi3brW5A?e=h94od0)
 
 ### What it models:
 
