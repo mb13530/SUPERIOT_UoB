@@ -12,9 +12,9 @@ This repository collects software, datasets, and supporting material produced in
 # Project website: https://superiot.eu/
 
 # Recommended reading:
-- [Paper 1](https://ieeexplore.ieee.org/document/11408832)
-- [Paper 2](https://arxiv.org/abs/2510.09842) 
-- [Paper 3](https://arxiv.org/abs/2501.10093)
+- [RIoT Digital Twin: Modeling, Deployment, and Optimization of Reconfigurable IoT System with Optical–Radio Wireless Integration](https://ieeexplore.ieee.org/document/11408832)
+- [Towards Automated and Predictive Network-Level Energy Profiling in Reconfigurable IoT Systems](https://arxiv.org/abs/2510.09842) 
+- [An Energy-Aware RIoT System: Analysis, Modeling and Prediction in the SUPERIOT Framework](https://arxiv.org/abs/2501.10093)
 
 # What’s included
 ## 1) Node-level Energy Prediction App (RIoT node)
