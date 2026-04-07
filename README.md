@@ -269,4 +269,4 @@ Several downloads are hosted on University of Bristol SharePoint. Access may req
 
 # Citation
 
-If you use these tools or datasets in academic work, please cite the relevant SUPERIOT papers (see the “Recommended reading” links above). If you’d like, paste your preferred citation format (BibTeX / IEEE / ACM) and I’ll format the references accordingly.
+If you use these tools or datasets in academic work, please cite the relevant SUPERIOT papers (see the “Recommended reading” links above).
