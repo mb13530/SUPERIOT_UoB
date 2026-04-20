@@ -237,7 +237,7 @@ MATLAB does not need to be installed to run the standalone apps.
       <em>Figure 5: Network-level energy consumption predictor.</em>
     </td>
     <td align="center">
-      <img src="Useful resources/Picture1.svg" width="100%"><br>
+      <img src="https://github.com/mb13530/SUPERIOT_UoB/blob/98fdf35ae9c3e0d18df68c6b2d82cb3ab2441e2b/Useful%20resources/Picture1.svg" width="100%"><br>
       <em>Figure 6: Energy consumption optimizer.</em>
     </td>
   </tr>
